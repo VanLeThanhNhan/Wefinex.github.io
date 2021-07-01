@@ -1,0 +1,1076 @@
+
+
+
+
+
+
+
+
+
+.bg {
+    opacity: 0;
+    transition: opacity 1s;
+    -webkit-transition: opacity 1s;
+}
+
+.bg-loaded {
+    opacity: 1;
+}
+
+/* <style type="text/css">
+		
+	</style> */
+img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+
+/* <style id="custom-css" type="text/css">
+		
+	</style> */
+:root {
+    --primary-color: #2177ff;
+}
+
+.header-main {
+    height: 83px
+}
+
+#logo img {
+    max-height: 83px
+}
+
+#logo {
+    width: 200px;
+}
+
+.header-bottom {
+    min-height: 55px
+}
+
+.header-top {
+    min-height: 30px
+}
+
+.transparent .header-main {
+    height: 90px
+}
+
+.transparent #logo img {
+    max-height: 90px
+}
+
+.has-transparent+.page-title:first-of-type,
+.has-transparent+#main>.page-title,
+.has-transparent+#main>div>.page-title,
+.has-transparent+#main .page-header-wrapper:first-of-type .page-title {
+    padding-top: 90px;
+}
+
+.header.show-on-scroll,
+.stuck .header-main {
+    height: 70px !important
+}
+
+.stuck #logo img {
+    max-height: 70px !important
+}
+
+.header-bottom {
+    background-color: #f1f1f1
+}
+
+.header-main .nav>li>a {
+    line-height: 30px
+}
+
+@media (max-width: 549px) {
+    .header-main {
+        height: 70px
+    }
+
+    #logo img {
+        max-height: 70px
+    }
+}
+
+/* Color */
+.accordion-title.active,
+.has-icon-bg .icon .icon-inner,
+.logo a,
+.primary.is-underline,
+.primary.is-link,
+.badge-outline .badge-inner,
+.nav-outline>li.active>a,
+.nav-outline>li.active>a,
+.cart-icon strong,
+[data-color='primary'],
+.is-outline.primary {
+    color: #2177ff;
+}
+
+/* Color !important */
+[data-text-color="primary"] {
+    color: #2177ff !important;
+}
+
+/* Background Color */
+[data-text-bg="primary"] {
+    background-color: #2177ff;
+}
+
+/* Background */
+.scroll-to-bullets a,
+.featured-title,
+.label-new.menu-item>a:after,
+.nav-pagination>li>.current,
+.nav-pagination>li>span:hover,
+.nav-pagination>li>a:hover,
+.has-hover:hover .badge-outline .badge-inner,
+button[type="submit"],
+.button.wc-forward:not(.checkout):not(.checkout-button),
+.button.submit-button,
+.button.primary:not(.is-outline),
+.featured-table .title,
+.is-outline:hover,
+.has-icon:hover .icon-label,
+.nav-dropdown-bold .nav-column li>a:hover,
+.nav-dropdown.nav-dropdown-bold>li>a:hover,
+.nav-dropdown-bold.dark .nav-column li>a:hover,
+.nav-dropdown.nav-dropdown-bold.dark>li>a:hover,
+.is-outline:hover,
+.tagcloud a:hover,
+.grid-tools a,
+input[type='submit']:not(.is-form),
+.box-badge:hover .box-text,
+input.button.alt,
+.nav-box>li>a:hover,
+.nav-box>li.active>a,
+.nav-pills>li.active>a,
+.current-dropdown .cart-icon strong,
+.cart-icon:hover strong,
+.nav-line-bottom>li>a:before,
+.nav-line-grow>li>a:before,
+.nav-line>li>a:before,
+.banner,
+.header-top,
+.slider-nav-circle .flickity-prev-next-button:hover svg,
+.slider-nav-circle .flickity-prev-next-button:hover .arrow,
+.primary.is-outline:hover,
+.button.primary:not(.is-outline),
+input[type='submit'].primary,
+input[type='submit'].primary,
+input[type='reset'].button,
+input[type='button'].primary,
+.badge-inner {
+    background-color: #2177ff;
+}
+
+/* Border */
+.nav-vertical.nav-tabs>li.active>a,
+.scroll-to-bullets a.active,
+.nav-pagination>li>.current,
+.nav-pagination>li>span:hover,
+.nav-pagination>li>a:hover,
+.has-hover:hover .badge-outline .badge-inner,
+.accordion-title.active,
+.featured-table,
+.is-outline:hover,
+.tagcloud a:hover,
+blockquote,
+.has-border,
+.cart-icon strong:after,
+.cart-icon strong,
+.blockUI:before,
+.processing:before,
+.loading-spin,
+.slider-nav-circle .flickity-prev-next-button:hover svg,
+.slider-nav-circle .flickity-prev-next-button:hover .arrow,
+.primary.is-outline:hover {
+    border-color: #2177ff
+}
+
+.nav-tabs>li.active>a {
+    border-top-color: #2177ff
+}
+
+.widget_shopping_cart_content .blockUI.blockOverlay:before {
+    border-left-color: #2177ff
+}
+
+.woocommerce-checkout-review-order .blockUI.blockOverlay:before {
+    border-left-color: #2177ff
+}
+
+/* Fill */
+.slider .flickity-prev-next-button:hover svg,
+.slider .flickity-prev-next-button:hover .arrow {
+    fill: #2177ff;
+}
+
+.success.is-underline:hover,
+.success.is-outline:hover,
+.success {
+    background-color: #64c306
+}
+
+.success-color,
+.success.is-link,
+.success.is-outline {
+    color: #64c306;
+}
+
+.success-border {
+    border-color: #64c306 !important;
+}
+
+/* Color !important */
+[data-text-color="success"] {
+    color: #64c306 !important;
+}
+
+/* Background Color */
+[data-text-bg="success"] {
+    background-color: #64c306;
+}
+
+body {
+    font-size: 100%;
+}
+
+@media screen and (max-width: 549px) {
+    body {
+        font-size: 100%;
+    }
+}
+
+body {
+    font-family: "Roboto", sans-serif
+}
+
+body {
+    font-weight: 0
+}
+
+body {
+    color: #05063b
+}
+
+.nav>li>a {
+    font-family: "Roboto", sans-serif;
+}
+
+.mobile-sidebar-levels-2 .nav>li>ul>li>a {
+    font-family: "Roboto", sans-serif;
+}
+
+.nav>li>a {
+    font-weight: 700;
+}
+
+.mobile-sidebar-levels-2 .nav>li>ul>li>a {
+    font-weight: 700;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading-font,
+.off-canvas-center .nav-sidebar.nav-vertical>li>a {
+    font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading-font,
+.banner h1,
+.banner h2 {
+    font-weight: 700;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading-font {
+    color: #0b0808;
+}
+
+.alt-font {
+    font-family: "Dancing Script", sans-serif;
+}
+
+.alt-font {
+    font-weight: 400 !important;
+}
+
+.header:not(.transparent) .header-nav-main.nav>li>a:hover,
+.header:not(.transparent) .header-nav-main.nav>li.active>a,
+.header:not(.transparent) .header-nav-main.nav>li.current>a,
+.header:not(.transparent) .header-nav-main.nav>li>a.active,
+.header:not(.transparent) .header-nav-main.nav>li>a.current {
+    color: #2177ff;
+}
+
+.header-nav-main.nav-line-bottom>li>a:before,
+.header-nav-main.nav-line-grow>li>a:before,
+.header-nav-main.nav-line>li>a:before,
+.header-nav-main.nav-box>li>a:hover,
+.header-nav-main.nav-box>li.active>a,
+.header-nav-main.nav-pills>li>a:hover,
+.header-nav-main.nav-pills>li.active>a {
+    color: #FFF !important;
+    background-color: #2177ff;
+}
+
+a {
+    color: #2177ff;
+}
+
+@media screen and (min-width: 550px) {
+    .products .box-vertical .box-image {
+        min-width: 300px !important;
+        width: 300px !important;
+    }
+}
+
+.footer-2 {
+    background-color: #fbfbfb
+}
+
+.absolute-footer,
+html {
+    background-color: #0a0a0a
+}
+
+.label-new.menu-item>a:after {
+    content: "New";
+}
+
+.label-hot.menu-item>a:after {
+    content: "Hot";
+}
+
+.label-sale.menu-item>a:after {
+    content: "Sale";
+}
+
+.label-popular.menu-item>a:after {
+    content: "Popular";
+}
+
+
+
+/* <style type="text/css" id="wp-custom-css">
+		
+	</style> */
+.header,
+.header-wrapper {
+	box-shadow: 0 1px 3px #ddd;
+}
+
+
+#rev_slider_3_1_wrapper {
+    height: 500px
+}
+
+
+/* 	<style type="text/css"
+		data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">
+		
+	</style> */
+.fb_hidden {
+    position: absolute;
+    top: -10000px;
+    z-index: 10001
+}
+
+.fb_reposition {
+    overflow: hidden;
+    position: relative
+}
+
+.fb_invisible {
+    display: none
+}
+
+.fb_reset {
+    background: none;
+    border: 0;
+    border-spacing: 0;
+    color: #000;
+    cursor: auto;
+    direction: ltr;
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-shadow: none;
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    word-spacing: normal
+}
+
+.fb_reset>div {
+    overflow: hidden
+}
+
+@keyframes fb_transform {
+    from {
+        opacity: 0;
+        transform: scale(.95)
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1)
+    }
+}
+
+.fb_animate {
+    animation: fb_transform .3s forwards
+}
+
+.fb_dialog {
+    background: rgba(82, 82, 82, .7);
+    position: absolute;
+    top: -10000px;
+    z-index: 10001
+}
+
+.fb_dialog_advanced {
+    border-radius: 8px;
+    padding: 10px
+}
+
+.fb_dialog_content {
+    background: #fff;
+    color: #373737
+}
+
+.fb_dialog_close_icon {
+    background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    display: block;
+    height: 15px;
+    position: absolute;
+    right: 18px;
+    top: 17px;
+    width: 15px
+}
+
+.fb_dialog_mobile .fb_dialog_close_icon {
+    left: 5px;
+    right: auto;
+    top: 5px
+}
+
+.fb_dialog_padding {
+    background-color: transparent;
+    position: absolute;
+    width: 1px;
+    z-index: -1
+}
+
+.fb_dialog_close_icon:hover {
+    background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent
+}
+
+.fb_dialog_close_icon:active {
+    background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent
+}
+
+.fb_dialog_iframe {
+    line-height: 0
+}
+
+.fb_dialog_content .dialog_title {
+    background: #6d84b4;
+    border: 1px solid #365899;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0
+}
+
+.fb_dialog_content .dialog_title>span {
+    background: url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;
+    float: left;
+    padding: 5px 0 7px 26px
+}
+
+body.fb_hidden {
+    height: 100%;
+    left: 0;
+    margin: 0;
+    overflow: visible;
+    position: absolute;
+    top: -10000px;
+    transform: none;
+    width: 100%
+}
+
+.fb_dialog.fb_dialog_mobile.loading {
+    background: url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;
+    min-height: 100%;
+    min-width: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    z-index: 10001
+}
+
+.fb_dialog.fb_dialog_mobile.loading.centered {
+    background: none;
+    height: auto;
+    min-height: initial;
+    min-width: initial;
+    width: auto
+}
+
+.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner {
+    width: 100%
+}
+
+.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content {
+    background: none
+}
+
+.loading.centered #fb_dialog_loader_close {
+    clear: both;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    padding-top: 20px
+}
+
+#fb-root #fb_dialog_ipad_overlay {
+    background: rgba(0, 0, 0, .4);
+    bottom: 0;
+    left: 0;
+    min-height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 10000
+}
+
+#fb-root #fb_dialog_ipad_overlay.hidden {
+    display: none
+}
+
+.fb_dialog.fb_dialog_mobile.loading iframe {
+    visibility: hidden
+}
+
+.fb_dialog_mobile .fb_dialog_iframe {
+    position: sticky;
+    top: 0
+}
+
+.fb_dialog_content .dialog_header {
+    background: linear-gradient(from(#738aba), to(#2c4987));
+    border-bottom: 1px solid;
+    border-color: #043b87;
+    box-shadow: white 0 1px 1px -1px inset;
+    color: #fff;
+    font: bold 14px Helvetica, sans-serif;
+    text-overflow: ellipsis;
+    text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0;
+    vertical-align: middle;
+    white-space: nowrap
+}
+
+.fb_dialog_content .dialog_header table {
+    height: 43px;
+    width: 100%
+}
+
+.fb_dialog_content .dialog_header td.header_left {
+    font-size: 12px;
+    padding-left: 5px;
+    vertical-align: middle;
+    width: 60px
+}
+
+.fb_dialog_content .dialog_header td.header_right {
+    font-size: 12px;
+    padding-right: 5px;
+    vertical-align: middle;
+    width: 60px
+}
+
+.fb_dialog_content .touchable_button {
+    background: linear-gradient(from(#4267B2), to(#2a4887));
+    background-clip: padding-box;
+    border: 1px solid #29487d;
+    border-radius: 3px;
+    display: inline-block;
+    line-height: 18px;
+    margin-top: 3px;
+    max-width: 85px;
+    padding: 4px 12px;
+    position: relative
+}
+
+.fb_dialog_content .dialog_header .touchable_button input {
+    background: none;
+    border: none;
+    color: #fff;
+    font: bold 12px Helvetica, sans-serif;
+    margin: 2px -12px;
+    padding: 2px 6px 3px 6px;
+    text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0
+}
+
+.fb_dialog_content .dialog_header .header_center {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+    text-align: center;
+    vertical-align: middle
+}
+
+.fb_dialog_content .dialog_content {
+    background: url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;
+    border: 1px solid #4a4a4a;
+    border-bottom: 0;
+    border-top: 0;
+    height: 150px
+}
+
+.fb_dialog_content .dialog_footer {
+    background: #f5f6f7;
+    border: 1px solid #4a4a4a;
+    border-top-color: #ccc;
+    height: 40px
+}
+
+#fb_dialog_loader_close {
+    float: left
+}
+
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon {
+    visibility: hidden
+}
+
+#fb_dialog_loader_spinner {
+    animation: rotateSpinner 1.2s linear infinite;
+    background-color: transparent;
+    background-image: url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    height: 24px;
+    width: 24px
+}
+
+@keyframes rotateSpinner {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+.fb_iframe_widget {
+    display: inline-block;
+    position: relative
+}
+
+.fb_iframe_widget span {
+    display: inline-block;
+    position: relative;
+    text-align: justify
+}
+
+.fb_iframe_widget iframe {
+    position: absolute
+}
+
+.fb_iframe_widget_fluid_desktop,
+.fb_iframe_widget_fluid_desktop span,
+.fb_iframe_widget_fluid_desktop iframe {
+    max-width: 100%
+}
+
+.fb_iframe_widget_fluid_desktop iframe {
+    min-width: 220px;
+    position: relative
+}
+
+.fb_iframe_widget_lift {
+    z-index: 1
+}
+
+.fb_iframe_widget_fluid {
+    display: inline
+}
+
+.fb_iframe_widget_fluid span {
+    width: 100%
+}
+
+.fb_mpn_mobile_landing_page_slide_out {
+    animation-duration: 200ms;
+    animation-name: fb_mpn_landing_page_slide_out;
+    transition-timing-function: ease-in
+}
+
+.fb_mpn_mobile_landing_page_slide_out_from_left {
+    animation-duration: 200ms;
+    animation-name: fb_mpn_landing_page_slide_out_from_left;
+    transition-timing-function: ease-in
+}
+
+.fb_mpn_mobile_landing_page_slide_up {
+    animation-duration: 500ms;
+    animation-name: fb_mpn_landing_page_slide_up;
+    transition-timing-function: ease-in
+}
+
+.fb_mpn_mobile_bounce_in {
+    animation-duration: 300ms;
+    animation-name: fb_mpn_bounce_in;
+    transition-timing-function: ease-in
+}
+
+.fb_mpn_mobile_bounce_out {
+    animation-duration: 300ms;
+    animation-name: fb_mpn_bounce_out;
+    transition-timing-function: ease-in
+}
+
+.fb_mpn_mobile_bounce_out_v2 {
+    animation-duration: 300ms;
+    animation-name: fb_mpn_fade_out;
+    transition-timing-function: ease-in
+}
+
+.fb_customer_chat_bounce_in_v2 {
+    animation-duration: 300ms;
+    animation-name: fb_bounce_in_v2;
+    transition-timing-function: ease-in
+}
+
+.fb_customer_chat_bounce_in_from_left {
+    animation-duration: 300ms;
+    animation-name: fb_bounce_in_from_left;
+    transition-timing-function: ease-in
+}
+
+.fb_customer_chat_bounce_out_v2 {
+    animation-duration: 300ms;
+    animation-name: fb_bounce_out_v2;
+    transition-timing-function: ease-in
+}
+
+.fb_customer_chat_bounce_out_from_left {
+    animation-duration: 300ms;
+    animation-name: fb_bounce_out_from_left;
+    transition-timing-function: ease-in
+}
+
+.fb_customer_chat_bubble_animated_no_badge {
+    box-shadow: 0 3px 12px rgba(0, 0, 0, .15);
+    transition: box-shadow 150ms linear
+}
+
+.fb_customer_chat_bubble_animated_no_badge:hover {
+    box-shadow: 0 5px 24px rgba(0, 0, 0, .3)
+}
+
+.fb_customer_chat_bubble_animated_with_badge {
+    box-shadow: -5px 4px 14px rgba(0, 0, 0, .15);
+    transition: box-shadow 150ms linear
+}
+
+.fb_customer_chat_bubble_animated_with_badge:hover {
+    box-shadow: -5px 8px 24px rgba(0, 0, 0, .2)
+}
+
+.fb_invisible_flow {
+    display: inherit;
+    height: 0;
+    overflow-x: hidden;
+    width: 0
+}
+
+.fb_new_ui_mobile_overlay_active {
+    overflow: hidden
+}
+
+@keyframes fb_mpn_landing_page_slide_in {
+    0% {
+        border-radius: 50%;
+        margin: 0 24px;
+        width: 60px
+    }
+
+    40% {
+        border-radius: 18px
+    }
+
+    100% {
+        margin: 0 12px;
+        width: 100% - 24px
+    }
+}
+
+@keyframes fb_mpn_landing_page_slide_in_from_left {
+    0% {
+        border-radius: 50%;
+        left: 12px;
+        margin: 0 24px;
+        width: 60px
+    }
+
+    40% {
+        border-radius: 18px
+    }
+
+    100% {
+        left: 12px;
+        margin: 0 12px;
+        width: 100% - 24px
+    }
+}
+
+@keyframes fb_mpn_landing_page_slide_out {
+    0% {
+        margin: 0 12px;
+        width: 100% - 24px
+    }
+
+    60% {
+        border-radius: 18px
+    }
+
+    100% {
+        border-radius: 50%;
+        margin: 0 24px;
+        width: 60px
+    }
+}
+
+@keyframes fb_mpn_landing_page_slide_out_from_left {
+    0% {
+        left: 12px;
+        width: 100% - 24px
+    }
+
+    60% {
+        border-radius: 18px
+    }
+
+    100% {
+        border-radius: 50%;
+        left: 12px;
+        width: 60px
+    }
+}
+
+@keyframes fb_mpn_landing_page_slide_up {
+    0% {
+        bottom: 0;
+        opacity: 0
+    }
+
+    100% {
+        bottom: 24px;
+        opacity: 1
+    }
+}
+
+@keyframes fb_mpn_bounce_in {
+    0% {
+        opacity: .5;
+        top: 100%
+    }
+
+    100% {
+        opacity: 1;
+        top: 0
+    }
+}
+
+@keyframes fb_mpn_fade_out {
+    0% {
+        bottom: 30px;
+        opacity: 1
+    }
+
+    100% {
+        bottom: 0;
+        opacity: 0
+    }
+}
+
+@keyframes fb_mpn_bounce_out {
+    0% {
+        opacity: 1;
+        top: 0
+    }
+
+    100% {
+        opacity: .5;
+        top: 100%
+    }
+}
+
+@keyframes fb_bounce_in_v2 {
+    0% {
+        opacity: 0;
+        transform: scale(0, 0);
+        transform-origin: bottom right
+    }
+
+    50% {
+        transform: scale(1.03, 1.03);
+        transform-origin: bottom right
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1, 1);
+        transform-origin: bottom right
+    }
+}
+
+@keyframes fb_bounce_in_from_left {
+    0% {
+        opacity: 0;
+        transform: scale(0, 0);
+        transform-origin: bottom left
+    }
+
+    50% {
+        transform: scale(1.03, 1.03);
+        transform-origin: bottom left
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1, 1);
+        transform-origin: bottom left
+    }
+}
+
+@keyframes fb_bounce_out_v2 {
+    0% {
+        opacity: 1;
+        transform: scale(1, 1);
+        transform-origin: bottom right
+    }
+
+    100% {
+        opacity: 0;
+        transform: scale(0, 0);
+        transform-origin: bottom right
+    }
+}
+
+@keyframes fb_bounce_out_from_left {
+    0% {
+        opacity: 1;
+        transform: scale(1, 1);
+        transform-origin: bottom left
+    }
+
+    100% {
+        opacity: 0;
+        transform: scale(0, 0);
+        transform-origin: bottom left
+    }
+}
+
+@keyframes fb_bounce_out_v2_mobile_chat_started {
+    0% {
+        opacity: 1;
+        top: 0
+    }
+
+    100% {
+        opacity: 0;
+        top: 20px
+    }
+}
+
+@keyframes fb_customer_chat_bubble_bounce_in_animation {
+    0% {
+        bottom: 6pt;
+        opacity: 0;
+        transform: scale(0, 0);
+        transform-origin: center
+    }
+
+    70% {
+        bottom: 18pt;
+        opacity: 1;
+        transform: scale(1.2, 1.2)
+    }
+
+    100% {
+        transform: scale(1, 1)
+    }
+}
+
+@keyframes slideInFromBottom {
+    0% {
+        opacity: .1;
+        transform: translateY(100%)
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0)
+    }
+}
+
+@keyframes slideInFromBottomDelay {
+    0% {
+        opacity: 0;
+        transform: translateY(100%)
+    }
+
+    97% {
+        opacity: 0;
+        transform: translateY(100%)
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0)
+    }
+}
+
